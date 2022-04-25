@@ -1,0 +1,6 @@
+name: Module Custom
+type: module
+description: Custom module configuration
+version: 1.0.0
+package: Custom
+core_version_requirement: ^8 || ^9

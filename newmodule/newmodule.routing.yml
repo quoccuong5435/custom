@@ -1,0 +1,7 @@
+newmodule.welcome:
+  path: 'welcome'
+  defaults:
+    _controller: 'Drupal\newmodule\Controller\NewController::content'
+    _title: 'Welcome to my module in Drupal 9'
+  requirements:
+    _permission:  'acess content'

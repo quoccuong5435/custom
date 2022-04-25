@@ -1,0 +1,6 @@
+newmodule.newpage:
+  title: 'Module Structure'
+  description: 'Link to the page module created'
+  route_name: newmodule.welcome
+  weight: 10
+  menu_name: main
